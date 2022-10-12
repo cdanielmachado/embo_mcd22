@@ -1,0 +1,8 @@
+name: mcd22
+
+dependencies:
+  - pandas
+  - pip
+  - pip:
+    - escher
+    - cplex
