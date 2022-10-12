@@ -1,8 +1,12 @@
 name: mcd22
 
 dependencies:
+  - python=3.9.12
+  - jupyter
+  - matplotlib
   - pandas
   - pip
   - pip:
+    - reframed
     - escher
     - cplex
