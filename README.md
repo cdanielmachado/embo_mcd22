@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cdanielmachado/embo_mcd22/HEAD?urlpath=/tree)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cdanielmachado/embo_mcd22/HEAD)
 
 # EMBO Practical Course - Metabolite and species dynamics in microbial communities 2022
 
